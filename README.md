@@ -31,7 +31,7 @@ currently_learning:
 ## 📄 Resume
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1z0WXYZEXAMPLEVIEWID/view?usp=sharing" target="_blank">
+  <a href="https://drive.google.com/file/d/1jZuXCUroNYZw2PlmQxTe5zS1MJGPz2Pz/view?usp=drive_link" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white"/>
   </a>
 </p>
