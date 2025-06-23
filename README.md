@@ -4,7 +4,12 @@
 <h3 align="center">A Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Software+Developer;;Open+Source+Contributor;Always+Learning+New+Things"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Software+Developer"/>
+</p>
+<h3 align="center">A Full-Stack Developer & AI Enthusiast from India</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things"/>
 </p>
 
 ---
