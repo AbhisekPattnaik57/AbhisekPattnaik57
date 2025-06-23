@@ -15,7 +15,7 @@ name: "Abhisek Pattnaik"
 education:
   degree: "B.Tech in Electronics & Communication Engineering"
   university: "GIET University, Gunupur"
-  CGPA: "7.94 / 10"
+  CGPA: "7.94 / 10" 
 past_experience:
   - role: "Web Development Intern", company: "Code Clause"
 certifications:
