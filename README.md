@@ -109,6 +109,29 @@ Currently_Learning:
 </p>
 
 
+
+---
+
+## 🏅 Certifications
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-FFB013?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20Data%20Platform%20Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NPTEL%20Python%20Scholar-1F8ACB?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+## 🎞️ Featured Project Showcase
+
+<p align="center">
+  <img src="https://github.com/AbhisekPattnaik57/Book-Rental-System/assets/placeholder.gif" width="350"/>
+  <img src="https://github.com/AbhisekPattnaik57/HireWise/assets/placeholder.gif" width="350"/>
+</p>
+
+## 🌙 Dark/Light Mode Friendly
+
+Your profile will auto-adjust according to GitHub's theme. Want custom themes? Use `?theme=light` or `?theme=dark` in stats URLs.
+
+
 ---
 
 ## 🚀 Fun Fact
