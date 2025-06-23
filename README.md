@@ -102,8 +102,12 @@ Currently_Learning:
   </tr>
 </table>
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPattnaik57&theme=rogue" width="100%"/>
+</p>
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhisekPattnaik57&label=Profile%20views&color=0e75b6&style=flat" alt="Abhisek Pattnaik"/>
 </p>
+
 
 
 
