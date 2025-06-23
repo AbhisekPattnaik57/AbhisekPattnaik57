@@ -84,6 +84,11 @@ Currently_Learning:
 
 ## 📊 GitHub Stats
 
+### 🔥 Contribution Calendar
+<p align="center">
+  <img src="https://github-contribution-graph.ezra.sh/api?username=AbhisekPattnaik57&bg=transparent&color=00FFAD&border=none" width="100%"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhisekPattnaik57&theme=radical&hide_border=false" height="200" />
 </p>
