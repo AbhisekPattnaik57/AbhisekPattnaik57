@@ -88,7 +88,7 @@ currently_learning:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhisekPattnaik57&theme=radical&hide_border=false" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhisekPattnaik57&theme=radical&hide_border=false" height="200" />
 </p>
 
 <p align="center">
