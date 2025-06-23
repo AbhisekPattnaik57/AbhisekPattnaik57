@@ -4,11 +4,6 @@
 <h3 align="center">A Software Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Software+Developer"/>
-</p>
-
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Software+Developer;Open+Source+Contributor;Always+Learning+New+Things"/>
 </p>
 
