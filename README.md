@@ -88,12 +88,22 @@ currently_learning:
 ## 📊 GitHub Stats
 
 <p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhisekPattnaik57&theme=radical&hide_border=false" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPattnaik57&theme=radical&margin-w=15&margin-h=15&row=1&column=6"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPattnaik57&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPattnaik57&layout=compact&theme=radical" width="48%"/>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPattnaik57&show_icons=true&theme=radical"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPattnaik57&layout=compact&theme=radical"/>
+    </td>
+  </tr>
+</table>
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPattnaik57&theme=rogue" width="100%"/>
 </p>
