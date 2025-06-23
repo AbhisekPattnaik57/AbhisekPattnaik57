@@ -31,6 +31,16 @@ currently_learning:
 
 ---
 
+## 📄 Resume
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1z0WXYZEXAMPLEVIEWID/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download%20Resume-0077B5?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://abhisekpattnaik.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
@@ -79,6 +89,10 @@ currently_learning:
 ---
 
 ## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhisekPattnaik57&theme=radical&margin-w=15&margin-h=15&row=1&column=6"/>
+</p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPattnaik57&show_icons=true&theme=radical" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPattnaik57&layout=compact&theme=radical" width="48%"/>
