@@ -1,11 +1,15 @@
-<h1 align="center">Hi 👋, I'm Abhisek Pattnaik</h1>
+<h1 align="center">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Abhisek Pattnaik
+</h1>
 <h3 align="center">A Full-Stack Developer & AI Enthusiast from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Open+Source+Contributor;Always+Learning+New+Things"/>
+</p>
 
 ---
 
-### 🧑‍💻 About Me !!
+## 🧑‍💻 About Me
 ```yaml
 name: "Abhisek Pattnaik"
 education:
@@ -23,43 +27,62 @@ currently_learning:
   - TypeScript
   - Docker
   - Advanced DSA
-🌐 Connect with Me
-<p align="left"> <a href="https://www.linkedin.com/in/abhisek-pattnaik" target="_blank">LinkedIn</a> • <a href="https://github.com/AbhisekPattnaik57" target="_blank">GitHub</a> • <a href="https://leetcode.com/u/abhisekpattnaik57" target="_blank">LeetCode</a> • <a href="mailto:abhisekpattnaik298@gmail.com">Email</a> </p>
-| Project                | Description                                        | Tech Stack                                       |
-| ---------------------- | -------------------------------------------------- | ------------------------------------------------ |
-| **HireWise**           | AI-powered resume analyzer with OpenAI integration | Java, Spring Boot, React.js, MongoDB, MySQL      |
-| **CodeMentor**         | Real-time AI-based coding interview assistant      | Java, Spring Boot, React.js, PostgreSQL, MongoDB |
-| **Book Rental System** | Secure online book rental platform                 | Java, Spring Boot, MySQL, React.js, REST API     |
-👨‍💻 Programming Languages:
-Java HTML CSS JavaScript TailwindCSS
+```
 
-⚙️ Frameworks:
-Spring Boot React.js Node.js
+---
 
-🗄️ Databases:
-MySQL PostgreSQL MongoDB
+## 🌐 Connect with Me
+<p align="center">
+  <a href="https://abhisekpattnaik.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/abhisek-pattnaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://medium.com/@abhisekpattnaik298" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
+  <a href="https://twitter.com/abhisek_57" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.youtube.com/@abhisekpattnaik57" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+</p>
 
-🧰 Tools & Platforms:
-VS Code IntelliJ IDEA Git GitHub MySQL Workbench
+---
 
-🏆 Certifications & Achievements
-✅ Oracle Cloud Infrastructure Foundations Associate – 2023
+## 🚀 Projects
 
-✅ Oracle Data Platform Foundations Associate – 2025
+### 💻 Full Stack
+- **HireWise** - AI-powered resume analyzer with OpenAI & Spring Boot
+- **CodeMentor** - Real-time coding interview assistant with leaderboards
+- **Book Rental System** - Full stack rental app using Java, React, MySQL
 
-🧠 NPTEL: Joy of Computing Using Python – 2024
+---
 
-🥇 1st place in Shot Put – GIET Athletics Championship
+## 🧐 Skills & Tech Stack
 
-🥈 2nd place in Discus Throw – University Athletics Championship
+| Category                  | Skills & Icons                                                                 |
+|--------------------------|-------------------------------------------------------------------------------|
+| **Languages**            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend**             | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend**              | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **AI/ML Technologies**   | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Databases**            | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
+| **Visualization**        | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black) |
+| **BaaS / Cloud**         | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **Software**             | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) |
 
-📜 PHP & MySQL Certification – IIT Bombay, 2022
+---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhisekPattnaik57&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPattnaik57&layout=compact&theme=radical" width="48%"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbhisekPattnaik57&theme=rogue" width="100%"/>
+</p>
 
-✨ Fun Fact
-"I combine logic and creativity to build smart, efficient, and elegant software systems."
+---
 
-⭐️ Show some love by starring your favorite repositories!
-Thanks for visiting!
+## 🚀 Fun Fact
+> I combine logic and creativity to build smart, efficient, and elegant software systems.
+
+---
+
+### ⭐ Show some love by starring your favorite repositories!
+
+Thanks for visiting! 🚀
