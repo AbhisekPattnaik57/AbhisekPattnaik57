@@ -65,7 +65,16 @@ currently_learning:
 
 ## 🧐 Skills & Tech Stack
 
-(unchanged — already includes badges from previous version)
+| Category                  | Skills & Icons                                                                 |
+|--------------------------|-------------------------------------------------------------------------------|
+| **Languages**            | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Frontend**             | ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) |
+| **Backend**              | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white) |
+| **AI/ML Technologies**   | ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white) |
+| **Databases**            | ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=flat&logo=mysql&logoColor=white) |
+| **Visualization**        | ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=plotly&logoColor=black) ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black) |
+| **BaaS / Cloud**         | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) ![Heroku](https://img.shields.io/badge/Heroku-430098?style=flat&logo=heroku&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white) |
+| **Software**             | ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat&logo=adobe-photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white) ![Blender](https://img.shields.io/badge/Blender-F5792A?style=flat&logo=blender&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-0055FF?style=flat&logo=framer&logoColor=white) |
 
 ---
 
@@ -75,7 +84,7 @@ currently_learning:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhisekPattnaik57&layout=compact&theme=radical" width="48%"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=AbhisekPattnaik57&theme=rogue" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhisekPattnaik57&theme=rogue" width="100%"/>
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AbhisekPattnaik57&label=Profile%20views&color=0e75b6&style=flat" alt="Abhisek Pattnaik"/>
