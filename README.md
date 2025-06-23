@@ -43,8 +43,8 @@ currently_learning:
   <a href="https://abhisekpattnaik.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abhisek-pattnaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://medium.com/@abhisekpattnaik298" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"></a>
-  <a href="https://twitter.com/abhisek_57" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.youtube.com/@abhisekpattnaik57" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
+  <a href="https://x.com/abhisek8917" target="_blank"><img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://www.youtube.com/@abhisekpattnaik9463" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
 </p>
 
 ---
