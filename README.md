@@ -8,22 +8,22 @@
 
 ## 🧑‍💻 About Me
 ```yaml
-name: "Abhisek Pattnaik"
-education:
-  degree: "B.Tech in Electronics & Communication Engineering"
-  university: "GIET University, Gunupur"
+Name: "Abhisek Pattnaik"
+Education:
+  Degree: "B.Tech in Electronics & Communication Engineering"
+  University: "GIET University, Gunupur"
   CGPA: "7.94 / 10" 
-past_experience:
-  - role: "Web Development Intern", company: "Code Clause"
-certifications:
+Past_Experience:
+  - Role: "Web Development Intern", company: "Code Clause"
+Certifications:
   - "Oracle Cloud Infrastructure Foundations Associate"
   - "Oracle Data Platform Foundations Associate"
   - "Joy of Computing using Python – NPTEL"
-specialization: "Full Stack Development (Java + Spring Boot + React)"
-currently_learning:
-  - TypeScript
+Specialization: "Full Stack Development (Java + Spring Boot + React)"
+Currently_Learning:
+  - AWS Fundamentals
   - Docker
-  - Advanced DSA
+  - Micrroservices & CI/CD Pipelines
 ```
 
 ---
