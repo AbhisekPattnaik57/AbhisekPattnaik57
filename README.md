@@ -1,6 +1,6 @@
 
 
-<p align="center"> 
+<p align="center">  
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFAD&width=435&lines=Hi+I+am+Abhisek+Pattnaik;From+Berhampur+Odisha;Software+Developer;Open+Source+Contributor;Always+Learning+New+Things"/>
 </p>
 
