@@ -6,7 +6,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 ```yaml
 Name: "Abhisek Pattnaik"
 Education:
@@ -28,7 +28,7 @@ Currently_Learning:
 
 ---
 
-## 📄 Resume
+## Resume
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1jZuXCUroNYZw2PlmQxTe5zS1MJGPz2Pz/view?usp=drive_link" target="_blank">
@@ -38,7 +38,7 @@ Currently_Learning:
 
 ---
 
-## 🌐 Connect with Me
+## Connect with Me
 <p align="center">
   <a href="https://abhisekpattnaik.netlify.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/abhisek-pattnaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -49,9 +49,9 @@ Currently_Learning:
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 💻 Full Stack Development
+### Full Stack Development
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | [JobRadar](https://github.com/AbhisekPattnaik57/JobRadar) | Real-time job tracker with market analytics | React, Spring Boot, MongoDB |
@@ -59,18 +59,9 @@ Currently_Learning:
 | [HireWise](https://github.com/AbhisekPattnaik57/HireWise) | Resume analyzer using OpenAI API | Java, React, MongoDB |
 | [CodeMentor](https://github.com/AbhisekPattnaik57/CodeMentor) | AI-based coding interview assistant | Spring Boot, React.js, PostgreSQL |
 
-### 🧬 AI/ML & Data Science
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [Spotify Analysis](https://github.com/AbhisekPattnaik57/Spotify-Popularity-Prediction) | Sports/Spotify popularity prediction | Time Series, ML Models |
-| [Resume Matcher](https://github.com/AbhisekPattnaik57/Resume-Matcher) | AI-based job-resume matching tool | Python, NLP |
-| [Image Classifier](https://github.com/AbhisekPattnaik57/Image-Classification-Model) | Image classification using PyTorch | PyTorch |
-| [Amazon ML Analysis](https://github.com/AbhisekPattnaik57/Amazon-Customer-Analysis) | ML analysis on Amazon customer data | Pandas, Matplotlib, Sklearn |
-| [Airbnb Analysis](https://github.com/AbhisekPattnaik57/Airbnb-Analysis) | Airbnb price/demand prediction | Power BI, Python |
-
 ---
 
-## 🧐 Skills & Tech Stack
+## Skills & Tech Stack
 
 
 | Category       | Skills & Icons |
@@ -82,7 +73,7 @@ Currently_Learning:
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhisekPattnaik57&theme=radical&hide_border=false" height="200" />
@@ -113,7 +104,7 @@ Currently_Learning:
 
 ---
 
-## 🏅 Certifications
+## Certifications
 
 <p align="center">
   <img src="https://img.shields.io/badge/Oracle%20Cloud%20Foundations-FFB013?style=for-the-badge&logo=oracle&logoColor=white"/>
@@ -124,7 +115,7 @@ Currently_Learning:
 
 ---
 
-## 🚀 Fun Fact
+## Fun Fact
 > I combine logic and creativity to build smart, efficient, and elegant software systems.
 
 ---
